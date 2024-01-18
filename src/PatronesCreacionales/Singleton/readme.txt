@@ -1,0 +1,1 @@
+Asegurate que la clase tenga una sola instancia y provee un punto global para acceder a ella.
