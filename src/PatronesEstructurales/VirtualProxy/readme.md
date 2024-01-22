@@ -1,0 +1,3 @@
+Variante de diseño proxy
+Virtual Proxy no restringe el acceso al objeto real sino que intenta retrasar su creacion. Esto nos puede ser muy util cuando estamos crear objetos de muy alto costo computacional. Por ejemplo un objeto se cree a partir de una consulta de una bd o API
+Cuando nosostros tengamos este tipo de objetos costosos, de tal manera q el objeto se cree unicamente cuando el usuario lo necesite.

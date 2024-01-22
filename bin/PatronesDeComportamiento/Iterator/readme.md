@@ -1,0 +1,2 @@
+Iterator
+Provee un mecanismo estandar para acceder secuencialmente a los elementos de una coleccion. En este patron nosotros debemos diseñar una interfaz de tal manera que si un objeto quiere acceder a los elementos de una coleccion tenga que hacerlo a travez de la interfaz, de esta manera nosotros no exponemos los atributos y los metodos de la coleccion, de tal forma que podamos proteger la coleccion hasta cierto punto.

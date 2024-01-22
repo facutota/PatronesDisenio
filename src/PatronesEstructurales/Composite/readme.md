@@ -1,0 +1,1 @@
+Composite permite a los clientes trata objetos individuales y composiciones de objetos de manera uniforme. Todo mediante la jerarquizacion de arboles.
